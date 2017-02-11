@@ -1,4 +1,11 @@
 .ipynb_checkpoints
+<<<<<<< HEAD
 *.gif
 *.png
 .DS_Store
+=======
+*.pyc
+.DS_Store
+.awspublish-*
+compiled
+>>>>>>> 0e2ab3332525979ad1d710aa09bebcfbdab96c08
